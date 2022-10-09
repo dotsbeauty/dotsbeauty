@@ -6,7 +6,7 @@
 
 <h3 align="center">
 
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Drishti</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+Hi there, I'm <a href="https://dri-portfolio.web.app/" target="_blank" rel="noreferrer">Drishti</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 </h3>
 
