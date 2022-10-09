@@ -19,9 +19,9 @@ I'm a Full-Stack Web Developer 💻 and Artist 🎨!
 I love the entire process of developing creative websites. I love doing my work perfectly and spending time with dog🐶. I am a passionate self-taught full stack web developer from India 🇮🇳. 
 
 ### 🤝 Connect with me:
-<a href="https://dri-portfolio.web.app/"><img align="left" src="images/web.png" alt="Drishti | Website" width="21px"/></a>
-<a href="https://www.linkedin.com/in/webdrishti/"><img align="left" src="images/linkedin.png" alt="Drishti | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/drishti.js/"><img align="left" src="images/instagram.png" alt="Drishti | Instagram" width="21px"/></a>
+<a href="https://dri-portfolio.web.app/"><img align="left" src="images/web.png" alt="Drishti | Website" width="30px"/></a>
+<a href="https://www.linkedin.com/in/webdrishti/"><img align="left" src="images/linkedin.png" alt="Drishti | LinkedIn" width="30px"/></a>
+<a href="https://www.instagram.com/drishti.js/"><img align="left" src="images/instagram.png" alt="Drishti | Instagram" width="30px"/></a>
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -56,3 +56,7 @@ I love the entire process of developing creative websites. I love doing my work 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
+## 📈 Github Stats
+
+![Dotsbeauty's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotsbeauty&show_icons=true)
