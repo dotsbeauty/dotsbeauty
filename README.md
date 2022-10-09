@@ -1,6 +1,6 @@
-<p align=”center”>
+<p align="center">
 
-<img width="200" height="200" src="https://user-images.githubusercontent.com/67326784/194755240-e76ed6e3-af0e-46af-a5c6-9f31739b2eed.png" alt="my banner">
+<img src="https://user-images.githubusercontent.com/67326784/194755240-e76ed6e3-af0e-46af-a5c6-9f31739b2eed.png" alt="my banner">
 
 </p>
 
@@ -16,10 +16,10 @@ I'm a Full-Stack Web Developer 💻 and Artist 🎨!
 
 </h2> 
 
-I love the entire process of developing creative websites. I love doing my work perfectly and spending time with dogs🐶. I am a passionate self-taught full stack web developer from India 🇮🇳. 
+I love the entire process of developing creative websites. I love doing my work perfectly and spending time with dog🐶. I am a passionate self-taught full stack web developer from India 🇮🇳. 
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/webdrishti/"><img align="left" src="images/linkedin.png" alt="Drishti | Website" width="21px"/></a>
+<a href="https://dri-portfolio.web.app/"><img align="left" src="images/web.png" alt="Drishti | Website" width="21px"/></a>
 <a href="https://www.linkedin.com/in/webdrishti/"><img align="left" src="images/linkedin.png" alt="Drishti | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/drishti.js/"><img align="left" src="images/instagram.png" alt="Drishti | Instagram" width="21px"/></a>
 </br>
