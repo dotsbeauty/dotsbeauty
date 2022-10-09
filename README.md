@@ -63,4 +63,3 @@ I love the entire process of developing creative websites. I love doing my work 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotsbeauty&layout=compact&theme=radical)](https://github.com/dotsbeauty/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dotsbeauty&repo=github-readme-stats)](https://github.com/dotsbeauty/github-readme-stats)
