@@ -63,3 +63,4 @@ I love the entire process of developing creative websites. I love doing my work 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotsbeauty&layout=compact&theme=radical)](https://github.com/dotsbeauty/github-readme-stats)
 
+[![@dotsbeauty's Holopin board](https://holopin.me/dotsbeauty)](https://holopin.io/@dotsbeauty)
