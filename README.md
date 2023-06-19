@@ -29,8 +29,7 @@ I love the entire process of developing creative websites. I love doing my work 
 ## 🔭 I'm currently working on
 - My old projects
 - Building smart contracts
-- Crop Recommendaion App (Working on it soon...)
-- My first blog
+- My first blog (Working on it soon...)
 
 
 ## 🌱 I'm currently learning
