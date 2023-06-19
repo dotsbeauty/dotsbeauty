@@ -56,6 +56,11 @@ I love the entire process of developing creative websites. I love doing my work 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
+## 👩🏻‍💻 Work Experience
+- AI intern at <a href="http://giindia.com/">Global Infoventures Pvt. Ltd.</a>
+- ASE-Trainee at <a href="https://celeb-ai.com/">CelebAI Technologies</a>
+
+
 ## 📈 Github Stats
 
 ![Dotsbeauty's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotsbeauty&show_icons=true&theme=radical)
