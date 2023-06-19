@@ -21,7 +21,7 @@ I love the entire process of developing creative websites. I love doing my work 
 ### 🤝 Connect with me:
 <a href="https://dri-portfolio.web.app/"><img align="left" src="images/web.png" alt="Drishti | Website" width="30px"/></a>
 <a href="https://www.linkedin.com/in/webdrishti/"><img align="left" src="images/linkedin.png" alt="Drishti | LinkedIn" width="30px"/></a>
-<a href="https://www.instagram.com/drishti.js/"><img align="left" src="images/instagram.png" alt="Drishti | Instagram" width="30px"/></a>
+<a href="https://www.instagram.com/dots._.beauty/"><img align="left" src="images/instagram.png" alt="Drishti | Instagram" width="30px"/></a>
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
